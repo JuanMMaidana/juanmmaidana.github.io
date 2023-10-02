@@ -23,7 +23,7 @@ title: ML Portfolio # the main title
 tagline: Juan Martín Maidana # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  An ML Portfolio of varius study projects.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -41,9 +41,9 @@ social:
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/JuanMMaidana # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username  
+    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/juan-martin-maidana-50727926a/
-  
+
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
