@@ -8,8 +8,7 @@ theme: jekyll-theme-chirpy
 # Otherwise, keep it as '/'.
 
 
-url: https://juanmmaidana.github.io
-baseurl: /juanmmaidana.github.io
+baseurl: "/juanmmaidana.github.io"
 
 
 
@@ -33,7 +32,7 @@ description: >- # used by seo meta and the atom feed
   An ML Portfolio of varius study projects.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: 'https://juanmmaidana.github.io'
 
 github:
   username: JuanMMaidana # change to your github username
