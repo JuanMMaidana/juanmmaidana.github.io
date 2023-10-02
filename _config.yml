@@ -5,9 +5,12 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
+# Otherwise, keep it as '/'.
+
 
 url: https://juanmmaidana.github.io
 baseurl: /juanmmaidana.github.io
+
 
 
 
