@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Francisco Crime Classification"
-date: 2024-01-10
+date: 2023-10-15
 author: Juan Martin Maidana
 categories: [Classification]
 tags: [Data Cleaning, Data Visualization, Multiclass Classification]
